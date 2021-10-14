@@ -1,0 +1,5 @@
+C:\Users\Ana\OneDrive\Área de Trabalho\Fatorial\obj\Debug\net5.0\CadProfissional.csproj.AssemblyReference.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\Fatorial\obj\Debug\net5.0\CadProfissional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\OneDrive\Área de Trabalho\Fatorial\obj\Debug\net5.0\CadProfissional.AssemblyInfoInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\Fatorial\obj\Debug\net5.0\CadProfissional.AssemblyInfo.cs
+C:\Users\Ana\OneDrive\Área de Trabalho\Fatorial\obj\Debug\net5.0\CadProfissional.csproj.CoreCompileInputs.cache
